@@ -26,3 +26,5 @@
 </html>
 
   ![Screenshot (68)](https://github.com/himeshapathirana/Movie_Recommender/assets/94542536/6506352e-297e-47ea-918e-3275dbed1108)
+  ![Screenshot (69)](https://github.com/himeshapathirana/Movie_Recommender/assets/94542536/068d04b0-77b9-4f64-b46f-1ee6df53a2c3)
+

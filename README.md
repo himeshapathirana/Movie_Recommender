@@ -20,7 +20,9 @@
           </ol>
            <h2>Sample Output</h2>
             <img src="file:///C:/Users/Himesha/OneDrive/Pictures/Screenshots/Screenshot%20(68).png">
+          
 
 </body>
 </html>
 
+  ![Screenshot (68)](https://github.com/himeshapathirana/Movie_Recommender/assets/94542536/6506352e-297e-47ea-918e-3275dbed1108)
